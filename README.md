@@ -34,7 +34,8 @@ In the spirit of Ubuntu, which emphasizes community and sharing, your task is to
 - Ubuntu Principles to Implement
 # Example Output
 ## Terminal Output Text
-```Welcome to the Ubuntu Image Fetcher
+
+``` Welcome to the Ubuntu Image Fetcher
 A tool for mindfully collecting images from the web
 
 Please enter the image URL: https://example.com/ubuntu-wallpaper.jpg
@@ -44,7 +45,9 @@ Please enter the image URL: https://example.com/ubuntu-wallpaper.jpg
 Connection strengthened. Community enriched.
 Starter Code Structure```
 ## python
-```import requests
+
+``` 
+import requests
 import os
 from urllib.parse import urlparse
 
@@ -86,7 +89,8 @@ def main():
         print(f"✗ An error occurred: {e}")
 
 if __name__ == "__main__":
-    main()```
+    main()
+```
 # Challenge Questions
 
 - Modify the program to handle multiple URLs at once.
