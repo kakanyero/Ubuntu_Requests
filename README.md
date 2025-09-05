@@ -43,7 +43,8 @@ Please enter the image URL: https://example.com/ubuntu-wallpaper.jpg
 ✓ Image saved to Fetched_Images/ubuntu-wallpaper.jpg
 
 Connection strengthened. Community enriched.
-Starter Code Structure```
+Starter Code Structure
+```
 ## python
 
 ``` 
@@ -90,7 +91,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 ```
+
 # Challenge Questions
 
 - Modify the program to handle multiple URLs at once.
